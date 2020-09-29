@@ -2,4 +2,9 @@ A Róka és Nyúl elkezdték kergetni egymást.
 A Nyúl egyre gyorsabban kezdett futni.
 Erre a Róka nagy kerek szemekkel nézett utánna.
 Majd ezután felvette ő is a "nyúlcipőt".
+<<<<<<< HEAD
 Erre a Róka nagyot elesett,mert nem tudott olyan gyorsan futni mint a Nyúl.
+=======
+
+Egyre gyorsabb tempót kellett felvennie , hogy tudja tartani az iramot.
+>>>>>>> ca3db762f9829a6f12e247752d6a1e2d7eb29cbc
